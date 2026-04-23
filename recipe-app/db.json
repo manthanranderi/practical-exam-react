@@ -1,0 +1,12 @@
+{
+  "recipes": [
+    {
+      "title": "Biriyani",
+      "category": "veg",
+      "ingredients": "spicy",
+      "date": "2026-04-23T10:33:42.098Z",
+      "id": "jleB5dft9SU"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
